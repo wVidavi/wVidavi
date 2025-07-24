@@ -1,11 +1,5 @@
 # wVidavi
-### Estudante de programação
+### Programador Front-end
 
-## ✨ **Linguagens que sei**:
-1️⃣ Programação: Python, Lua
-2️⃣ Marcação: HTML, CSS
-
-
-## ✅ **Meus projetos**
-💨 *Nada por aqui ainda...*
-
+Técnico Integrado em Informática | CIE Miécimo da Silva
+- Java, Python, HTML, CSS, MySQL
